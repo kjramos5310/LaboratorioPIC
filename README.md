@@ -6,8 +6,7 @@ Este proyecto contiene una serie de Custom Elements desarrollados con JavaScript
 Descripción
 Este componente crea un menú de navegación basado en un elemento <ul> con opciones definidas en un arreglo.
 
-Propiedades
-No tiene atributos configurables. Las opciones del menú están predefinidas en el código.
+
 
 <mi-menu></mi-menu>
 Estilos
@@ -18,8 +17,6 @@ Puedes personalizarlo añadiendo estilos CSS a la clase .custom-menu.
 Descripción
 Un componente que muestra una página de inicio con un título y un subtítulo dentro de un contenedor estilizado.
 
-Propiedades
-No tiene atributos configurables.
 
 <mi-inicio></mi-inicio>
 
@@ -37,8 +34,6 @@ api-endpoint: URL de la API desde la cual se obtienen los datos.
 Descripción
 Genera una tabla de estudiantes con datos obtenidos desde una API.
 
-Atributos
-api-endpoint: URL de la API desde la cual se obtienen los datos.
 
 
 <mi-tablita api-endpoint="https://jsonplaceholder.typicode.com/users"></mi-tablita>
